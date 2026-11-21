@@ -1,0 +1,232 @@
+{
+  "events": [
+    {
+      "type": "user_register",
+      "userId": 8730993703,
+      "at": "2026-11-19T13:21:11.301Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 1693284849,
+      "at": "2026-11-19T13:23:02.214Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8986542163,
+      "at": "2026-11-19T13:29:46.568Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8100895239,
+      "at": "2026-11-19T13:34:55.080Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8751236803,
+      "at": "2026-11-19T13:35:16.020Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8713288741,
+      "at": "2026-11-19T13:35:28.438Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 9093382128,
+      "at": "2026-11-19T13:36:14.671Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8323914654,
+      "at": "2026-11-19T13:42:50.732Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8293553356,
+      "at": "2026-11-19T14:14:34.836Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 1057803758,
+      "at": "2026-11-19T14:15:41.087Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 6489685533,
+      "at": "2026-11-19T15:09:50.872Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8654231521,
+      "at": "2026-11-19T15:21:21.268Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 1512469782,
+      "at": "2026-11-19T15:37:49.733Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 6672898753,
+      "at": "2026-11-19T18:18:13.238Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8741118404,
+      "at": "2026-11-19T22:48:50.956Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 9197188179,
+      "at": "2026-11-19T22:53:10.669Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 7533868268,
+      "at": "2026-11-20T06:19:34.938Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8982146747,
+      "at": "2026-11-20T06:51:08.915Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 5203807327,
+      "at": "2026-11-20T07:16:45.011Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8824756103,
+      "at": "2026-11-20T11:34:00.411Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 9071760764,
+      "at": "2026-11-20T11:39:05.175Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 6935394719,
+      "at": "2026-11-20T14:31:42.110Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8339269154,
+      "at": "2026-11-20T14:56:29.162Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8840924149,
+      "at": "2026-11-20T15:11:06.310Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 7665225638,
+      "at": "2026-11-21T01:17:28.193Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 6460615831,
+      "at": "2026-11-21T01:30:10.235Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 9012152881,
+      "at": "2026-11-21T02:41:57.712Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8899593057,
+      "at": "2026-11-21T03:24:44.582Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 6752173348,
+      "at": "2026-11-21T03:32:53.686Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8442556872,
+      "at": "2026-11-21T03:56:26.245Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8252677222,
+      "at": "2026-11-21T04:31:12.559Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8690877634,
+      "at": "2026-11-21T05:17:41.934Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8633434102,
+      "at": "2026-11-21T06:05:22.983Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8988098294,
+      "at": "2026-11-21T06:07:46.800Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 9220339482,
+      "at": "2026-11-21T06:10:08.763Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 5309339931,
+      "at": "2026-11-21T06:40:03.540Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8353536759,
+      "at": "2026-11-21T07:09:32.896Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 9286837223,
+      "at": "2026-11-21T07:23:37.850Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8871882301,
+      "at": "2026-11-21T09:00:09.147Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8804641232,
+      "at": "2026-11-21T10:40:15.724Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8648296648,
+      "at": "2026-11-21T10:43:54.294Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 7554186211,
+      "at": "2026-11-21T10:54:55.048Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 7022506138,
+      "at": "2026-11-21T10:59:31.421Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8971613761,
+      "at": "2026-11-21T11:54:30.480Z"
+    },
+    {
+      "type": "user_register",
+      "userId": 8935313901,
+      "at": "2026-11-21T11:58:06.158Z"
+    }
+  ],
+  "stats": {
+    "user_register": 45
+  }
+}
